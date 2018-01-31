@@ -1,4 +1,4 @@
-pragma solidity ^ 4.0.17;
+pragma solidity ^0.4.17;
 
 
 
